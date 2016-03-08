@@ -1,0 +1,23 @@
+{
+  "name": "plurilock-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://yeah568@github.com/plurilock1/plurilock-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plurilock1/plurilock-server/issues"
+  },
+  "homepage": "https://github.com/plurilock1/plurilock-server#readme",
+  "dependencies": {
+    "nodejs-websocket": "^1.5.0"
+  }
+}
